@@ -1,0 +1,8 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+pdfplumber
+langchain_groq
+openpyxl
